@@ -1,0 +1,10 @@
+<Exam>
+	<SL.NO="23">
+		<NAME>John Carter</NAME>
+		<ADMISSION_DATE>25/12/2015</ADMISSION_DATE>		
+	</SL.NO>
+	<SL.NO="29">
+		<NAME>Bob Marshal</NAME>
+		<ADMISSION_DATE>13/01/1999</ADMISSION_DATE>		
+	</SL.NO>
+</Exam>
