@@ -1,0 +1,71 @@
+ <html>
+	<head>
+		<title>
+			Home
+		</title>
+	</head>
+	<body>
+		<center>
+		<a href="">click</a>
+		<br/>
+		This is test text....
+		<p>
+		rgiuloujlirg
+		glgrdgreigeimogr<br/>
+		hgrt./,/etphyg'.::;;<br/>
+		fdfg<br/>
+		</p>
+		<table border="2" align="center" width="500px">
+			<tr>
+				<th>ID</th>
+				<th>Name</th>
+				<th>Email</th>
+			</tr>
+			<tr align="center">
+				<td>16</td>
+				<td>Arefin</td>
+				<td rowspan="2">arefin@gmail</td>
+			</tr>
+			<tr align="center">
+				<td>90</td>
+				<td>Sayed</td>
+				
+			</tr>
+			<tr>
+				<td>20</td>
+				<td colspan="2" align="center">Sabbir</td>
+				
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</table>
+		
+		
+		<img src="Logo.png" width="100px" height="100px">
+		
+		<h1>Example</h1>
+		<h2>Example</h2>
+		<h3>Example</h3>
+		<h4>Example</h4>
+		<h5>Example</h5>
+		<i><u><b>Sabbirta</b></u></i>
+		<u><i><b>Sabbirta</b></i></u>
+		</center>
+		<ol>
+			<li>one</li>
+			<li>two</li>
+			<li>three</li>
+			<li>four</li>
+		</ol>
+		<ul>
+			<li>one</li>
+			<li>two</li>
+			<li>three</li>
+			<li>four</li>
+			
+		</ul>
+	</body>
+ </html>
