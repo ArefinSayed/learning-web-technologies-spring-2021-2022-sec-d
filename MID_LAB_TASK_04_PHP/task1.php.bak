@@ -1,0 +1,7 @@
+<?php
+	function area($length,$width)
+	{
+	echo 'area='.($length*$width);
+	}
+	area(8,2);
+?>

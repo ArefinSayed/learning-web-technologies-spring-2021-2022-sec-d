@@ -1,0 +1,8 @@
+<?php
+	function percentage($vat,$amount)
+	
+	{
+		echo 'Vat='.($amount%);
+	}
+	percentage(16,9000);
+?>
